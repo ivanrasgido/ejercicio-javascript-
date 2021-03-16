@@ -1,0 +1,34 @@
+#color1{
+    width: 100px;
+    height: 100px;
+    background-color: #faf;
+}
+
+#color2{
+    width: 100px;
+    height: 100px;
+    left: 50px;
+    margin-left: 200px;
+    bottom: 99px;
+    position: relative;
+    background-color: #aaa;
+}
+
+#color3{
+    width: 100px;
+    height: 100px;
+    margin-left: 500px;
+    position: relative;
+    bottom:199px;
+    background-color: #123456;
+}
+
+#color4{
+    width: 100px;
+    height: 100px;
+    margin-left: 750px;
+    position: relative;
+    bottom: 299px;
+    background-color: #fff123;
+}
+
